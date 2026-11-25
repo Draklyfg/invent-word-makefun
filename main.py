@@ -3,7 +3,7 @@
 import os
 
 
-ENTRY = "tabnesia: forgetting why you opened a tab the moment it loads."
+ENTRY = "fridgaze: opening the fridge and staring inside even though you know there is nothing you want."
 
 
 def main() -> None:
